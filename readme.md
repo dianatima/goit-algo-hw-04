@@ -1,9 +1,9 @@
 В результаті тестування були отримані такі результати:
-Test for '100' elements:\n
-Time for insertion_sort: 0.00019212509505450726\n
-Time for merge_sort: 0.00012550002429634333\n
-Time for timsorted: 3.4208991564810276e-05\n
-Time for timsort: 3.233295865356922e-05\n
+Test for '100' elements:
+Time for insertion_sort: 0.00019212509505450726
+Time for merge_sort: 0.00012550002429634333
+Time for timsorted: 3.4208991564810276e-05
+Time for timsort: 3.233295865356922e-05
 Test for '1000' elements:
 Time for insertion_sort: 0.018389708013273776
 Time for merge_sort: 0.0016332078957930207
